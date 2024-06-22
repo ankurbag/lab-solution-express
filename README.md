@@ -10,8 +10,8 @@ We demoed how to create first Webserver using Express.
 
 ## Installation Steps
 
-- Clone this project `git clone https://github.com/ankurbag/express-demo.git`
-- Go to folder `cd express-demo`
+- Clone this project `git clone https://github.com/ankurbag/lab-solution-express.git`
+- Go to folder `cd lab-solution-express`
 - Run `npm install` or `npm i`
 - Run `npm start`
 - Open [http://localhost:8080](http://localhost:3000) to view it in your browser.
