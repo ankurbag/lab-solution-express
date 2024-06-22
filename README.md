@@ -15,6 +15,10 @@ We demoed how to create first Webserver using Express.
 - Run `npm install` or `npm i`
 - Run `npm start`
 - Open [http://localhost:8080](http://localhost:3000) to view it in your browser.
+- Test the following endpoints on POSTMAN:
+  - GET `http://localhost:8080/ingredients`
+  - POST `http://localhost:8080/orders`
+  - GET `http://localhost:8080/ingredients/fresh peas`
 
 ## Learn More
 
